@@ -1,4 +1,4 @@
-# Cenema-Paradeso
+# Cinema-Paradiso
 
 ```In this web application you will find many informative movie reviews,
 you can compare different reviews on current, upcoming, recent, or
